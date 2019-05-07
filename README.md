@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-Contador de pessoas para restaurante
+Contador de pessoas
 
 ## Getting Started
 
